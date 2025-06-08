@@ -1,0 +1,11 @@
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio2\obj\Debug\Ejercicio2.exe.config
