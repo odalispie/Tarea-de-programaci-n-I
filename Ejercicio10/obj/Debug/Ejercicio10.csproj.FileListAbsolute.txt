@@ -1,0 +1,10 @@
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio10\obj\Debug\Ejercicio10.csproj.AssemblyReference.cache
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio10\obj\Debug\Ejercicio10.Form1.resources
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio10\obj\Debug\Ejercicio10.Properties.Resources.resources
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio10\obj\Debug\Ejercicio10.csproj.GenerateResource.cache
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio10\obj\Debug\Ejercicio10.pdb

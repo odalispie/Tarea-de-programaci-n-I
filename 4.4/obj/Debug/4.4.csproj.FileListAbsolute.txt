@@ -1,0 +1,11 @@
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\4.4\bin\Debug\4.4.exe.config
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\4.4\bin\Debug\4.4.exe
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\4.4\bin\Debug\4.4.pdb
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\4.4\obj\Debug\4.4.csproj.AssemblyReference.cache
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\4.4\obj\Debug\_4._4.Form1.resources
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\4.4\obj\Debug\_4._4.Properties.Resources.resources
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\4.4\obj\Debug\4.4.csproj.GenerateResource.cache
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\4.4\obj\Debug\4.4.csproj.CoreCompileInputs.cache
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\4.4\obj\Debug\4.4.exe
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\4.4\obj\Debug\4.4.pdb
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\4.4\obj\Debug\4.4.exe.config

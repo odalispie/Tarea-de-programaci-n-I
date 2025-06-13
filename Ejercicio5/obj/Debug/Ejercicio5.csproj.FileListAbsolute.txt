@@ -8,3 +8,4 @@ C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio5\obj\
 C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
 C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio5\obj\Debug\Ejercicio5.exe
 C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio5\obj\Debug\Ejercicio5.pdb
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\Ejercicio5\obj\Debug\Ejercicio5.exe.config

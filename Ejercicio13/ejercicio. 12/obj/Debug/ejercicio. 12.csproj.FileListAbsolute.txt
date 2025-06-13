@@ -1,0 +1,10 @@
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\ejercicio. 12\bin\Debug\ejercicio. 12.exe.config
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\ejercicio. 12\bin\Debug\ejercicio. 12.exe
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\ejercicio. 12\bin\Debug\ejercicio. 12.pdb
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\ejercicio. 12\obj\Debug\ejercicio. 12.csproj.AssemblyReference.cache
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\ejercicio. 12\obj\Debug\ejercicio._12.Form1.resources
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\ejercicio. 12\obj\Debug\ejercicio._12.Properties.Resources.resources
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\ejercicio. 12\obj\Debug\ejercicio. 12.csproj.GenerateResource.cache
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\ejercicio. 12\obj\Debug\ejercicio. 12.csproj.CoreCompileInputs.cache
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\ejercicio. 12\obj\Debug\ejercicio. 12.exe
+C:\Users\echoe\OneDrive\Documents\GitHub\Tarea-de-programaci-n-I\ejercicio. 12\obj\Debug\ejercicio. 12.pdb
